@@ -1,0 +1,2 @@
+﻿"guid rail flange mount side" = 20
+"guid rail back length" = "main width" - "guide rail flange" * 2
