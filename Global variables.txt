@@ -40,8 +40,8 @@ slot offset y = "slot width" + "slot offset"
 "splash plate length"= 400
 splash plate width = "main width"
 "splash plate air gap"= 200
-"splash plate slot count"= 18
-"splash plate slot length"= 15
+"splash plate slot count"= 11
+"splash plate slot length"= 50
 "splash plate slot height"= 50
 "splash plate slot offset"= 65
 #water tray
