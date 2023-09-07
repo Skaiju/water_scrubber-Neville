@@ -5,7 +5,7 @@
 #main----------
 "main length" = 1200
 "main width" = 1200
-"divider panel distance offset" = 550
+"divider panel distance offset" = 250
 #side panel
 "side panel length" = 1200
 "side panel width" = 1000
@@ -36,5 +36,8 @@ slot offset y = "slot width" + "slot offset"
 "guide rail flange" = 40
 "guid rail flange mount side" = 20
 "guid rail back length" = "main width" - "guide rail flange" * 2
+#dimpled panel
+dimpled panel length = "main length" - 200
+dimpled panel width = "main width"
 #sump----------
 "sump" = 0
