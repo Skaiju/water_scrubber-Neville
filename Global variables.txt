@@ -1,5 +1,5 @@
 ﻿#assembly-----------------------
-"thickness 1" = 3
+"thickness 1" = 2
 "thickness 2" = 8
 "connecting flange" = 35
 #main----------
@@ -36,8 +36,23 @@ slot offset y = "slot width" + "slot offset"
 "guide rail flange" = 40
 "guid rail flange mount side" = 20
 "guid rail back length" = "main width" - "guide rail flange" * 2
+#splash plate
+"splash plate length"= 400
+splash plate width = "main width"
+"splash plate air gap"= 200
+"splash plate slot count"= 18
+"splash plate slot length"= 15
+"splash plate slot height"= 50
+"splash plate slot offset"= 65
+#water tray
+"water tray depth"= 300
+"water tray width"= 200
 #dimpled panel
-dimpled panel length = "main length" - 200
+dimpled panel length = "main length" - 200 - "water tray depth"/2
+dimpled panel top offset = "water tray depth"/2
 dimpled panel width = "main width"
+"dimple panel slot count"= 10
+"dimple panel slot length"= 10
+"dimple panel slot width"= 5
+"dimple panel slot offset"= 10
 #sump----------
-"sump" = 0
