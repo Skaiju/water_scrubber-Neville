@@ -1,2 +1,40 @@
-﻿"guid rail flange mount side" = 20
-"guid rail back length" = "main width" - "guide rail flange" * 2
+﻿#assembly-----------------------
+"thickness 1" = 3
+"thickness 2" = 8
+"connecting flange" = 35
+#main----------
+"main length" = 1200
+"main width" = 1200
+"divider panel distance offset" = 550
+#side panel
+"side panel length" = 1200
+"side panel width" = 1000
+#front panel
+"access hatch length" = 600
+"access hatch width" = 450
+"access hatch offset X" = 100
+"access hatch offset Y" = 100
+#back panel
+"back panel access hatch length" = 1150
+"back panel access hatch width" = 206
+"back panel access hatch flange" = 40
+#slotted panel
+slotted panel length = "main length" + 100
+slotted panel width = "main width"
+"slot count x"= 5
+"slot count y"= 18
+"slot offset"= 33
+"slot length"= 30
+"slot width"= 200
+slot offset x = "slot length" + "slot offset"
+slot offset y = "slot width" + "slot offset"
+#drift eliminator 
+"drift eliminator size offset" = 10
+"drift eliminator length" = "back panel access hatch length" - "drift eliminator size offset"
+"drift eliminator width" = "back panel access hatch width" - "drift eliminator size offset"
+"drift eliminator depth" = "divider panel distance offset"
+"guide rail flange" = 40
+"guid rail flange mount side" = 20
+"guid rail back length" = "main width" - "guide rail flange" * 2
+#sump----------
+"sump" = 0
