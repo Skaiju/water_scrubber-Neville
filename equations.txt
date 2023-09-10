@@ -2,8 +2,6 @@
 "thickness radius 1" = 3.7366
 "thickness 2" = 3
 "connecting flange" = 35
-"connecting flange hole" = 8
-"connecting flange holse gap" = 100
 "main length" = 1200
 "main width" = 1200
 "divider panel distance offset" = 296
