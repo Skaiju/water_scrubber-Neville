@@ -18,9 +18,9 @@
 "back panel access hatch flange" = 40
 "slotted panel length" = "main length" + 100
 "slotted panel width" = "main width"
-"slot count x"= 5
-"slot count y"= 15
-"slot offset"= 33
+"slot count x"= 3
+"slot count y"= 11
+"slot offset"= 100
 "slot length"= 30
 "slot width"= 200
 "slot offset x" = "slot length" + "slot offset"
