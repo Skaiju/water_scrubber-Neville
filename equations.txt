@@ -2,6 +2,8 @@
 "thickness radius 1" = 3.7366
 "thickness 2" = 3
 "connecting flange" = 35
+"connecting flange holes" = 8
+"connecting flange hole gap" = 100
 "main length" = 1200
 "main width" = 1200
 "divider panel distance offset" = 296
@@ -18,8 +20,8 @@
 "back panel access hatch flange" = 40
 "slotted panel length" = "main length" + 100
 "slotted panel width" = "main width"
-"slot count x"= 5
-"slot count y"= 15
+"slot count x"= 3
+"slot count y"= 11
 "slot offset"= 33
 "slot length"= 30
 "slot width"= 200
@@ -51,7 +53,7 @@
 "dimple panel slot offset" = 10
 "sump base flat section width" = 300
 "sump upper depth" = 300
-"sump depth" = 500
+"sump depth" = 550
 "leg length" = "sump depth" + 150
 "leg width" = 80
 "leg depth" = 40
