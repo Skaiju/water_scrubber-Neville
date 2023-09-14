@@ -26,9 +26,10 @@
 "access hatch hole y gap"= 200
 "slotted panel length" = "main length" + 100
 "slotted panel width" = "main width"
-"slot count x"= 3
-"slot count y"= 11
+"slot count x"= 4
+"slot count y"= 9
 "slot offset" = "water tray depth"
+"slot offset bottom" = 200
 "slot length"= 30
 "slot width"= 200
 "slot offset x" = "slot length" + "slot offset"
