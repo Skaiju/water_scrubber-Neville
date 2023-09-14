@@ -35,6 +35,11 @@
 "slot offset y" = "slot width" + "slot offset"
 "drift eliminator size offset"= 10
 "drift eliminator depth" = "divider panel distance offset"
+"drift eliminator cutout width" = 1140
+"drift eliminator cutout length" = 206
+"drift eliminator access hatch offset" = 30
+"drift eliminator access hatch width" = "drift eliminator cutout width" + "drift eliminator access hatch offset" * 2
+"drift eliminator access hatch length" = "drift eliminator cutout length" + "drift eliminator access hatch offset" * 2
 "guide rail flange"= 40
 "guid rail flange mount side"= 20
 "guid rail back length" = "main width" - "guide rail flange" * 2
