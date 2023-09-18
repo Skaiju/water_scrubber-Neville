@@ -57,10 +57,10 @@
 "dimpled panel length" = "main length" - 200 - "water tray depth"/2
 "dimpled panel top offset" = "water tray depth"/2
 "dimpled panel width" = "main width"
-"dimple panel slot count"= 119
-"dimple panel slot length"= 10
-"dimple panel slot width"= 5
-"dimple panel slot offset"= 10
+"dimple panel slot count"= 36
+"dimple panel slot length"= 8
+"dimple panel slot width"= 8
+"dimple panel slot offset"= 25
 "sump base flat section width"= 300
 "sump upper depth"= 300
 "sump depth"= 550
