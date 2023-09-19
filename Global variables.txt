@@ -2,7 +2,7 @@
 "thickness radius 1"= 3.7366
 "thickness 2"= 3
 "thickness 3"= 1.2
-"thichness 4"= 0.7
+"thichness 4"= 0.8
 "connecting flange"= 35
 "connecting flange holes"= 8
 "connecting flange hole gap"= 100
